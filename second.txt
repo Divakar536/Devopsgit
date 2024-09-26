@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 wecome to second files
 diva test 2nd file
+=======
+wecome to 2nd production file
+>>>>>>> production
